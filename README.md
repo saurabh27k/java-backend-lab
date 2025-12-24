@@ -6,4 +6,5 @@ author :- Saurabh khapale
 date :-   7/12/2025 <br>
 Inheritance <br>
 Polymorphism <br>
-Encapsulation
+Encapsulation <br>
+Abstraction
