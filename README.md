@@ -8,6 +8,6 @@ Inheritance .<br>
 Polymorphism .<br>
 Encapsulation .<br>
 Abstraction .<br>
-Wrapper Classes<br>
+Wrapper Classes.<br>
 Runnable interface <br>
 Deadlock <br>
